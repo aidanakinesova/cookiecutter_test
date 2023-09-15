@@ -1,6 +1,6 @@
 {
     "folder_name": "cookiecutter_folder",
-    "main_name": "main",
-    "models_name": "models",
-    "routers_name": "routers"
+    "main_name": "cookiecutter_main",
+    "models_name": "cookiecutter_models",
+    "routers_name": "cookiecutter_routers"
 }
