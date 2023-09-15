@@ -1,5 +1,6 @@
 {
     "folder_name": "cookiecutter_folder",
-    "file_name": "cookiecutter_file",
-    "name": "Kinessova Aidana"
+    "main_name": "main",
+    "models_name": "models",
+    "routers_name": "routers"
 }
